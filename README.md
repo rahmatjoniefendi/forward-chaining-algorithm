@@ -1,4 +1,4 @@
-# Opinioted and Usecase Based of Forward Chaining Algorithm
+# Opinionated and Usecase Based of Forward Chaining Algorithm
 
 ## Description
 
